@@ -1,0 +1,23 @@
+{
+  "name": "julya",
+  "version": "1.0.0",
+  "description": "№ Julya",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Juliya23/Julya.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Juliya23/Julya/issues"
+  },
+  "homepage": "https://github.com/Juliya23/Julya#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "express": "^4.16.2"
+  }
+}

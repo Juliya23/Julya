@@ -1,0 +1,15 @@
+.room {
+	border: 1px solid #eee;
+}
+.room1 {
+	background: yellow;
+}
+.room2 {
+    background: green;
+}
+.room3 {
+    background: blue;
+}
+.room4 {
+    background: red;
+}
